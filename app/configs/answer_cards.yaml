@@ -1,0 +1,35 @@
+# 图像质量判断
+quality_judgment:
+  laplacian:
+    manner: "max"  # max/var  max_threshold:215,var_threshold:400
+    threshold: 215
+    enable: True
+
+  brightness:
+    threshold: 200
+    enable: True
+
+
+# 图像矫正以及评估
+correction_module:
+  correction_v1: # 传统方法，形态学找圆块+矫正
+    threshold: 35
+    enable: True
+    debug: True
+  correction_v2: # 深度学习centerpose方法，关键点找圆块+矫正
+    enable: False
+    debug: False
+
+# 学号识别
+id_recog:
+  id_recog_v1:
+
+
+# 客观题
+objective_questions:
+  obj_ques_v1:
+
+
+# 主观题
+subjective_questions:
+  subj_ques_v1:
