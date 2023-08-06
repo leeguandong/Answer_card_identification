@@ -1,0 +1,490 @@
+{
+  "anchor_points": {
+    "vertical_points": [
+      21,
+      340,
+      19,
+      631,
+      711,
+      349,
+      712,
+      630
+    ],
+    "horizontal_points": [
+      {
+        "col": 0,
+        "points": [
+          30,
+          43,
+          698,
+          44,
+          700,
+          939,
+          29,
+          940
+        ]
+      }
+    ]
+  },
+  "bbox": [
+    52,
+    55,
+    677,
+    887
+  ],
+  "template_info": {
+    "type": "homework",
+    "layout": 0,
+    "note": {
+      "type": 1,
+      "bbox": [
+        56,
+        149,
+        339,
+        75
+      ]
+    },
+    "sealing_line": 0,
+    "is_ab": 0,
+    "red_answer_card": 0,
+    "partition_answer_card": 0,
+    "scope_box": 0
+  },
+  "id_card": {
+    "type": 0,
+    "bbox": [
+      418,
+      85,
+      281,
+      201
+    ]
+  },
+  "titles": [
+    {
+      "type": "single_choice_questions",
+      "items_num": 6,
+      "bbox": [
+        29,
+        363,
+        673,
+        60
+      ],
+      "options_horizontal": {
+        "horizontal": 1,
+        "vertical": 0,
+        "mixed": 0
+      },
+      "options_vertical": 0,
+      "items": [
+        {
+          "id": 0,
+          "page": 0,
+          "bbox": [
+            45,
+            379,
+            117,
+            17
+          ],
+          "item_num": 4
+        },
+        {
+          "id": 1,
+          "page": 0,
+          "bbox": [
+            188,
+            377,
+            103,
+            14
+          ],
+          "item_num": 4
+        },
+        {
+          "id": 2,
+          "page": 0,
+          "bbox": [
+            320,
+            375,
+            106,
+            19
+          ],
+          "item_num": 4
+        },
+        {
+          "id": 3,
+          "page": 0,
+          "bbox": [
+            445,
+            377,
+            112,
+            14
+          ],
+          "item_num": 4
+        },
+        {
+          "id": 4,
+          "page": 0,
+          "bbox": [
+            573,
+            379,
+            112,
+            14
+          ],
+          "item_num": 4
+        },
+        {
+          "id": 5,
+          "page": 0,
+          "bbox": [
+            50,
+            397,
+            112,
+            14
+          ],
+          "item_num": 4
+        }
+      ]
+    },
+    {
+      "type": "judgment_questions",
+      "items_num": 6,
+      "bbox": [
+        29,
+        443,
+        672,
+        114
+      ],
+      "options_horizontal": {
+        "horizontal": 0,
+        "vertical": 0,
+        "mixed": 1
+      },
+      "options_vertical": 0,
+      "items": [
+        {
+          "id": 0,
+          "page": 0,
+          "bbox": [
+            50,
+            454,
+            67,
+            15
+          ],
+          "item_num": 2
+        },
+        {
+          "id": 1,
+          "page": 0,
+          "bbox": [
+            50,
+            474,
+            67,
+            15
+          ],
+          "item_num": 2
+        },
+        {
+          "id": 2,
+          "page": 0,
+          "bbox": [
+            50,
+            493,
+            67,
+            13
+          ],
+          "item_num": 2
+        },
+        {
+          "id": 3,
+          "page": 0,
+          "bbox": [
+            50,
+            514,
+            67,
+            13
+          ],
+          "item_num": 2
+        },
+        {
+          "id": 4,
+          "page": 0,
+          "bbox": [
+            50,
+            531,
+            67,
+            13
+          ],
+          "item_num": 2
+        },
+        {
+          "id": 5,
+          "page": 0,
+          "bbox": [
+            131,
+            455,
+            67,
+            13
+          ],
+          "item_num": 2
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice_questions",
+      "items_num": 6,
+      "bbox": [
+        29,
+        577,
+        672,
+        115
+      ],
+      "options_horizontal": {
+        "horizontal": 0,
+        "vertical": 0,
+        "mixed": 0
+      },
+      "options_vertical": 1,
+      "items": [
+        {
+          "id": 0,
+          "page": 0,
+          "bbox": [
+            43,
+            591,
+            24,
+            95
+          ],
+          "item_num": 4
+        },
+        {
+          "id": 1,
+          "page": 0,
+          "bbox": [
+            70,
+            590,
+            23,
+            95
+          ],
+          "item_num": 4
+        },
+        {
+          "id": 2,
+          "page": 0,
+          "bbox": [
+            97,
+            590,
+            23,
+            95
+          ],
+          "item_num": 4
+        },
+        {
+          "id": 3,
+          "page": 0,
+          "bbox": [
+            122,
+            590,
+            23,
+            95
+          ],
+          "item_num": 4
+        },
+        {
+          "id": 4,
+          "page": 0,
+          "bbox": [
+            150,
+            591,
+            23,
+            95
+          ],
+          "item_num": 4
+        },
+        {
+          "id": 5,
+          "page": 0,
+          "bbox": [
+            196,
+            589,
+            23,
+            95
+          ],
+          "item_num": 4
+        }
+      ]
+    },
+    {
+      "type": "fill_blank_questions",
+      "items_num": 3,
+      "bbox": [
+        30,
+        713,
+        673,
+        94
+      ],
+      "horizontal": 1,
+      "vertical": 0,
+      "items": [
+        {
+          "id": 0,
+          "page": 0,
+          "bbox": [
+            47,
+            728,
+            324,
+            30
+          ],
+          "item_num": 1
+        },
+        {
+          "id": 1,
+          "page": 0,
+          "bbox": [
+            380,
+            727,
+            324,
+            30
+          ],
+          "item_num": 1
+        },
+        {
+          "id": 2,
+          "page": 0,
+          "bbox": [
+            45,
+            766,
+            324,
+            30
+          ],
+          "item_num": 1
+        }
+      ]
+    },
+    {
+      "type": "answer_questions",
+      "items_num": 2,
+      "bbox": [
+        28,
+        825,
+        673,
+        103
+      ],
+      "horizontal": 1,
+      "vertical": 0,
+      "items": [
+        {
+          "id": 0,
+          "page": 0,
+          "bbox": [
+            44,
+            836,
+            641,
+            84
+          ],
+          "item_num": 1
+        },
+        {
+          "id": 0,
+          "page": 1,
+          "bbox": [
+            49,
+            50,
+            664,
+            230
+          ],
+          "item_num": 1
+        },
+        {
+          "id": 1,
+          "page": 1,
+          "bbox": [
+            54,
+            293,
+            654,
+            311
+          ],
+          "item_num": 1
+        }
+      ]
+    },
+    {
+      "type": "essay_questions",
+      "items_num": 1,
+      "bbox": [
+        36,
+        644,
+        674,
+        268
+      ],
+      "items": [
+        {
+          "id": 0,
+          "page": 1,
+          "bbox": [
+            43,
+            676,
+            659,
+            232
+          ],
+          "item_num": 1
+        },
+        {
+          "id": 0,
+          "page": 2,
+          "bbox": [
+            35,
+            331,
+            663,
+            352
+          ],
+          "item_num": 1
+        }
+      ]
+    },
+    {
+      "type": "elect_questions",
+      "items_num": 1,
+      "bbox": [
+        24,
+        705,
+        672,
+        223
+      ],
+      "layout": 0,
+      "items": [
+        {
+          "id": 0,
+          "page": 2,
+          "bbox": [
+            39,
+            731,
+            649,
+            178
+          ],
+          "item_num": 1
+        },
+        {
+          "id": 0,
+          "page": 3,
+          "bbox": [
+            42,
+            56,
+            648,
+            109
+          ],
+          "item_num": 1
+        },
+        {
+          "id": 1,
+          "page": 3,
+          "bbox": [
+            45,
+            195,
+            651,
+            301
+          ],
+          "item_num": 1
+        }
+      ]
+    }
+  ]
+}

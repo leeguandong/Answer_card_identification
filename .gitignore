@@ -115,7 +115,6 @@ venv.bak/
 .DS_Store
 
 # datasets and logs and checkpoints
-data/
 work_dir/
 
 src/
